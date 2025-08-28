@@ -6,9 +6,6 @@ Task2
 
 Task3
 
-<<<<<<< HEAD
 
-Edit on branch Tst3
-=======
-Task for BR_TST|||\\\\|||||\\\\
->>>>>>> Br_tst
+
+Create Task on Main Local
